@@ -34,7 +34,7 @@ import ng.com.piccmaq.flutter.flutter_mobile_vision_2.ui.GraphicOverlay;
  */
 public class OcrGraphic extends GraphicOverlay.Graphic {
 
-    private static final int TEXT_COLOR = Color.WHITE;
+    private static final int TEXT_COLOR = Color.RED;
     private static final Paint rectPaint = new Paint();
     private static final Paint textPaint = new Paint();
 

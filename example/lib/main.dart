@@ -98,7 +98,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       theme: ThemeData(
         primarySwatch: Colors.lime,
-        buttonColor: Colors.lime,
+        // buttonColor: Colors.lime,
       ),
       home: DefaultTabController(
         length: 3,
